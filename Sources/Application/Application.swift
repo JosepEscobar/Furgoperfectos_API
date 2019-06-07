@@ -22,6 +22,7 @@ public class App {
     func postInit() throws {
         // Endpoints
         initializeHealthRoutes(app: self)
+        initializeFurgoperfectosRoutes(app: self)
         KituraOpenAPI.addEndpoints(to: router)
     }
 
