@@ -1,0 +1,4 @@
+module memplugin {
+    umbrella "/Users/josepescobar/Developer/Furgoperfectos_API/.build/checkouts/omr-agentcore/src/memplugin/include"
+    export *
+}

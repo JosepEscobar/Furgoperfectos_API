@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/josepescobar/Developer/Furgoperfectos_API/.build/checkouts/omr-agentcore/src/agentcore/include"
+    export *
+}

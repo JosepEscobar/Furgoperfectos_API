@@ -1,0 +1,4 @@
+module hcapiplugin {
+    umbrella "/Users/josepescobar/Developer/Furgoperfectos_API/.build/checkouts/omr-agentcore/src/hcapiplugin/include"
+    export *
+}

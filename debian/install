@@ -1,0 +1,3 @@
+.build/							usr/src/Furgoperfectos_API
+terraform/scripts/install.sh	usr/src/Furgoperfectos_API
+terraform/scripts/start.sh		usr/src/Furgoperfectos_API
